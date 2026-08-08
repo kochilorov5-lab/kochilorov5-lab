@@ -97,6 +97,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1510,100:f0c14b&height=100&section=footer&text=fair%20winds%20%C2%B7%20попутного%20ветра&fontSize=16&fontColor=c9d1d9&fontAlignY=65" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1510,100:f0c14b&height=100&section=footer&text=fair%20winds%20%C2%B7%20%D0%BF%D0%BE%D0%BF%D1%83%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%B5%D1%82%D1%80%D0%B0&fontSize=16&fontColor=c9d1d9&fontAlignY=65" alt="footer" />
 
 </div>
